@@ -288,9 +288,7 @@ function CompetitiveAdvantage() {
                         <div className="advantage-point">
                             <p>Combines storytelling, funding, and mentorship in one platform.</p>
                         </div>
-                        <div className="advantage-point">
-                            <p>Add Intellectual Property (IP) and Copyright since it’s already built into your valuation model</p>
-                        </div>
+                        
                         <div className="advantage-point">
                             <p>Protected by IP and copyright frameworks integrated into our business model and valuation, ensuring defensibility and scalability</p>
                         </div>
